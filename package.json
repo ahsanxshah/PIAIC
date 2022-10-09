@@ -1,0 +1,16 @@
+{
+  "name": "xxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript": "^1.0.0",
+    "node": "^18.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
